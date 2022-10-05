@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Миша\\Desktop\\GeekBrains\\!Учебные материалы\\3. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_1\\HomeWork_1.csproj": {}
+    "C:\\Users\\Миша\\Desktop\\GeekBrains\\!Учебные материалы\\3. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_2\\HomeWork_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Миша\\Desktop\\GeekBrains\\!Учебные материалы\\3. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_1\\HomeWork_1.csproj": {
+    "C:\\Users\\Миша\\Desktop\\GeekBrains\\!Учебные материалы\\3. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_2\\HomeWork_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Миша\\Desktop\\GeekBrains\\!Учебные материалы\\3. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_1\\HomeWork_1.csproj",
-        "projectName": "HomeWork_1",
-        "projectPath": "C:\\Users\\Миша\\Desktop\\GeekBrains\\!Учебные материалы\\3. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_1\\HomeWork_1.csproj",
+        "projectUniqueName": "C:\\Users\\Миша\\Desktop\\GeekBrains\\!Учебные материалы\\3. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_2\\HomeWork_2.csproj",
+        "projectName": "HomeWork_2",
+        "projectPath": "C:\\Users\\Миша\\Desktop\\GeekBrains\\!Учебные материалы\\3. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_2\\HomeWork_2.csproj",
         "packagesPath": "C:\\Users\\Миша\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Миша\\Desktop\\GeekBrains\\!Учебные материалы\\3. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_1\\obj\\",
+        "outputPath": "C:\\Users\\Миша\\Desktop\\GeekBrains\\!Учебные материалы\\3. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Миша\\AppData\\Roaming\\NuGet\\NuGet.Config"
