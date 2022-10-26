@@ -1,0 +1,15 @@
+C:\Users\Миша\Desktop\GeekBrains\!Учебные материалы\3. Знакомство с языками программирования\Семинары\HomeWork\HomeWork_7\bin\Debug\net6.0\HomeWork_7.exe
+C:\Users\Миша\Desktop\GeekBrains\!Учебные материалы\3. Знакомство с языками программирования\Семинары\HomeWork\HomeWork_7\bin\Debug\net6.0\HomeWork_7.deps.json
+C:\Users\Миша\Desktop\GeekBrains\!Учебные материалы\3. Знакомство с языками программирования\Семинары\HomeWork\HomeWork_7\bin\Debug\net6.0\HomeWork_7.runtimeconfig.json
+C:\Users\Миша\Desktop\GeekBrains\!Учебные материалы\3. Знакомство с языками программирования\Семинары\HomeWork\HomeWork_7\bin\Debug\net6.0\HomeWork_7.dll
+C:\Users\Миша\Desktop\GeekBrains\!Учебные материалы\3. Знакомство с языками программирования\Семинары\HomeWork\HomeWork_7\bin\Debug\net6.0\HomeWork_7.pdb
+C:\Users\Миша\Desktop\GeekBrains\!Учебные материалы\3. Знакомство с языками программирования\Семинары\HomeWork\HomeWork_7\obj\Debug\net6.0\HomeWork_7.csproj.AssemblyReference.cache
+C:\Users\Миша\Desktop\GeekBrains\!Учебные материалы\3. Знакомство с языками программирования\Семинары\HomeWork\HomeWork_7\obj\Debug\net6.0\HomeWork_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Миша\Desktop\GeekBrains\!Учебные материалы\3. Знакомство с языками программирования\Семинары\HomeWork\HomeWork_7\obj\Debug\net6.0\HomeWork_7.AssemblyInfoInputs.cache
+C:\Users\Миша\Desktop\GeekBrains\!Учебные материалы\3. Знакомство с языками программирования\Семинары\HomeWork\HomeWork_7\obj\Debug\net6.0\HomeWork_7.AssemblyInfo.cs
+C:\Users\Миша\Desktop\GeekBrains\!Учебные материалы\3. Знакомство с языками программирования\Семинары\HomeWork\HomeWork_7\obj\Debug\net6.0\HomeWork_7.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Desktop\GeekBrains\!Учебные материалы\3. Знакомство с языками программирования\Семинары\HomeWork\HomeWork_7\obj\Debug\net6.0\HomeWork_7.dll
+C:\Users\Миша\Desktop\GeekBrains\!Учебные материалы\3. Знакомство с языками программирования\Семинары\HomeWork\HomeWork_7\obj\Debug\net6.0\refint\HomeWork_7.dll
+C:\Users\Миша\Desktop\GeekBrains\!Учебные материалы\3. Знакомство с языками программирования\Семинары\HomeWork\HomeWork_7\obj\Debug\net6.0\HomeWork_7.pdb
+C:\Users\Миша\Desktop\GeekBrains\!Учебные материалы\3. Знакомство с языками программирования\Семинары\HomeWork\HomeWork_7\obj\Debug\net6.0\HomeWork_7.genruntimeconfig.cache
+C:\Users\Миша\Desktop\GeekBrains\!Учебные материалы\3. Знакомство с языками программирования\Семинары\HomeWork\HomeWork_7\obj\Debug\net6.0\ref\HomeWork_7.dll
