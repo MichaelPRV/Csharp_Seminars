@@ -207,7 +207,7 @@ Show2dArray(matrixProduct);
 
 //Задача 4. Сформируйте трёхмерный массив из неповторяющихся двузначных чисел. 
 //Напишите программу, которая будет построчно выводить массив, добавляя индексы каждого элемента.
-/*
+
 bool CheckOriginalNumber (int[,,] array, int element)
 {
     for(int i = 0; i < array.GetLength(0); i++)
@@ -225,14 +225,14 @@ bool CheckOriginalNumber (int[,,] array, int element)
     return true;
 }
 
-int createOriginalElement (int[,,] array)
+int CreateOriginalElement (int[,,] array)
 {
     int newElement = new Random().Next(10, 100);
 
     bool check = CheckOriginalNumber(array, newElement);
 
     if (check == false)
-        newElement = createOriginalElement (array);
+        newElement = CreateOriginalElement (array);
     
     return newElement;
 }
@@ -254,7 +254,7 @@ int[,,] Create3dArray (int x, int y, int z)
                     k++;
                 else
                 {
-                    d3array[i,j,k] = createOriginalElement(d3array);
+                    d3array[i,j,k] = CreateOriginalElement(d3array);
                     k++;
                 }
             }    
@@ -296,12 +296,12 @@ else
         int[,,] myArray = Create3dArray(rows, columns, thirdDim);
         Show3dArray(myArray);
     }
-*/  
+ 
 
 
 //Задача 5. Напишите программу, которая заполнит спирально массив
 
-
+/*
 int[,] CreateSpiral2dArray (int rows, int columns)
 {
     int[,] array = new int[rows, columns];
@@ -385,4 +385,4 @@ int column = Convert.ToInt32(Console.ReadLine());
 
 int[,] spiralFilledArray = CreateSpiral2dArray(row, column);
 Show2dArray(spiralFilledArray);
-
+*/
